@@ -1,0 +1,100 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "4Qtd4istn9g+Y1PEQIU1yTMX0nQ=",
+			"path": "github.com/bytom/common",
+			"revision": "19d90c0b42b4223a3b22d84b905aee35e1d4d118",
+			"revisionTime": "2019-10-24T07:01:34Z"
+		},
+		{
+			"checksumSHA1": "GkqRWPXmwjqthZjsuH+N/FSzYgU=",
+			"path": "github.com/bytom/common/bech32",
+			"revision": "19d90c0b42b4223a3b22d84b905aee35e1d4d118",
+			"revisionTime": "2019-10-24T07:01:34Z"
+		},
+		{
+			"checksumSHA1": "WJbUl8LCSZC8lIRM/G04epBbWxc=",
+			"path": "github.com/bytom/consensus",
+			"revision": "19d90c0b42b4223a3b22d84b905aee35e1d4d118",
+			"revisionTime": "2019-10-24T07:01:34Z"
+		},
+		{
+			"checksumSHA1": "aMkUNxnwzRFk0Bt9s/adg62Dc4g=",
+			"path": "github.com/bytom/crypto",
+			"revision": "19d90c0b42b4223a3b22d84b905aee35e1d4d118",
+			"revisionTime": "2019-10-24T07:01:34Z"
+		},
+		{
+			"checksumSHA1": "ReKXp5A68xiQOyPnDwtEXmvwnJ0=",
+			"path": "github.com/bytom/crypto/randentropy",
+			"revision": "19d90c0b42b4223a3b22d84b905aee35e1d4d118",
+			"revisionTime": "2019-10-24T07:01:34Z"
+		},
+		{
+			"checksumSHA1": "zCPk/p/m3cr8kP4jroSzUJkUxTI=",
+			"path": "github.com/bytom/crypto/sha3pool",
+			"revision": "19d90c0b42b4223a3b22d84b905aee35e1d4d118",
+			"revisionTime": "2019-10-24T07:01:34Z"
+		},
+		{
+			"checksumSHA1": "ezJVegoWEhLw4YFnfxcoPzWPBX4=",
+			"path": "github.com/bytom/encoding/blockchain",
+			"revision": "19d90c0b42b4223a3b22d84b905aee35e1d4d118",
+			"revisionTime": "2019-10-24T07:01:34Z"
+		},
+		{
+			"checksumSHA1": "ZCB3oBCjd3PHxkVm47ivzg82VSk=",
+			"path": "github.com/bytom/encoding/bufpool",
+			"revision": "19d90c0b42b4223a3b22d84b905aee35e1d4d118",
+			"revisionTime": "2019-10-24T07:01:34Z"
+		},
+		{
+			"checksumSHA1": "R20bDc1DdtPWwVlzecxDYVoW6D0=",
+			"path": "github.com/bytom/errors",
+			"revision": "19d90c0b42b4223a3b22d84b905aee35e1d4d118",
+			"revisionTime": "2019-10-24T07:01:34Z"
+		},
+		{
+			"checksumSHA1": "6VLKAVx+eKBrYl0wyJ5J9Lvdzpw=",
+			"path": "github.com/bytom/protocol/bc",
+			"revision": "19d90c0b42b4223a3b22d84b905aee35e1d4d118",
+			"revisionTime": "2019-10-24T07:01:34Z"
+		},
+		{
+			"checksumSHA1": "yqF125xVSkmfLpIVGrLlfE05IUk=",
+			"origin": "github.com/bytom/vendor/github.com/golang/protobuf/proto",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "19d90c0b42b4223a3b22d84b905aee35e1d4d118",
+			"revisionTime": "2019-10-24T07:01:34Z"
+		},
+		{
+			"checksumSHA1": "1MGpGDQqnUoRpv7VEcQrXOBydXE=",
+			"path": "golang.org/x/crypto/pbkdf2",
+			"revision": "87dc89f01550277dc22b74ffcf4cd89fa2f40f4c",
+			"revisionTime": "2019-10-11T18:31:21Z"
+		},
+		{
+			"checksumSHA1": "y/oIaxq2d3WPizRZfVjo8RCRYTU=",
+			"origin": "github.com/bytom/vendor/golang.org/x/crypto/ripemd160",
+			"path": "golang.org/x/crypto/ripemd160",
+			"revision": "19d90c0b42b4223a3b22d84b905aee35e1d4d118",
+			"revisionTime": "2019-10-24T07:01:34Z"
+		},
+		{
+			"checksumSHA1": "o8ysWPosGVxkSVMZHfp2tYHBTu8=",
+			"path": "golang.org/x/crypto/scrypt",
+			"revision": "87dc89f01550277dc22b74ffcf4cd89fa2f40f4c",
+			"revisionTime": "2019-10-11T18:31:21Z"
+		},
+		{
+			"checksumSHA1": "DDHnuGCrmkKSXdNzc8pmn6P5O28=",
+			"origin": "github.com/bytom/vendor/golang.org/x/crypto/sha3",
+			"path": "golang.org/x/crypto/sha3",
+			"revision": "19d90c0b42b4223a3b22d84b905aee35e1d4d118",
+			"revisionTime": "2019-10-24T07:01:34Z"
+		}
+	],
+	"rootPath": "github.com/zcc0721/go-keystore"
+}
