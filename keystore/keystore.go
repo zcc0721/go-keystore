@@ -126,7 +126,12 @@ func EncryptKey(key *Key, password string) ([]byte, error) {
 
 	encryptKey := derivedKey[:16]
 	iv := randentropy.GetEntropyCSPRNG(aes.BlockSize) // 16
-	cipherText, err := aesCTRXOR(encryptKey, []byte(key.PrivKey), iv)
+	privKeyBytes, err := hex.DecodeString(key.PrivKey)
+	if err != nil {
+		return nil, err
+	}
+
+	cipherText, err := aesCTRXOR(encryptKey, privKeyBytes, iv)
 	if err != nil {
 		return nil, err
 	}
